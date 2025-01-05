@@ -2,6 +2,9 @@
 > **혼자 공부하는 데이터 분석 with 파이썬** 책의 GitHub 저장소  
 > [GitHub 주소](https://github.com/rickiepark/hg-da)
 
+## **공부한거 정리**
+[tistory 주소](https://dy0221.tistory.com/26)
+
 ---
 
 ## 프로젝트 기간
