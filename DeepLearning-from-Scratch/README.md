@@ -32,3 +32,10 @@
         "python.defaultInterpreterPath": "C:\\Users\\wjm25\\anaconda3\\envs\\DL\\python.exe"
     }
 }
+```
+
+## 읽은 책 정리
+| 폴더명                   | 책이름                                                                      |
+|--------------------------|------------------------------|
+| DeepLearning-from-Scratch | 밑바닥부터 시작하는 딥러닝 1 |
+| hongong_data_with_python |  혼자 공부하는 데이터 분석 with 파이썬 |
