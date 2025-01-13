@@ -186,3 +186,6 @@ hongong_data_with_python.code-workspace
 *.json
 # xml
 *.xml
+
+# api key
+chap2/autu_key.py
