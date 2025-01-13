@@ -188,4 +188,4 @@ hongong_data_with_python.code-workspace
 *.xml
 
 # api key
-chap2/autu_key.py
+chap2/auth_key.py
